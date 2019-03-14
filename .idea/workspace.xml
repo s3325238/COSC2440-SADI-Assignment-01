@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4422435-fb18-44f4-ae9f-e92ae2e48ec3" name="Default Changelist" comment="" />
+    <list default="true" id="b4422435-fb18-44f4-ae9f-e92ae2e48ec3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +21,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -54,6 +59,7 @@
         <option value="$PROJECT_DIR$/src/DesignPattern/Singleton/Singleton.java" />
         <option value="$PROJECT_DIR$/src/StudentEnrollmentManager/StudentManager.java" />
         <option value="$PROJECT_DIR$/src/DesignPattern/Interface/Enrollment.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -62,6 +68,7 @@
     <option name="width" value="942" />
     <option name="height" value="1087" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -76,43 +83,6 @@
               <item name="s3325238-COSC2440-Assignment-01" type="b2602c69:ProjectViewProjectNode" />
               <item name="s3325238-COSC2440-Assignment-01" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="s3325238-COSC2440-Assignment-01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="s3325238-COSC2440-Assignment-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="s3325238-COSC2440-Assignment-01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="s3325238-COSC2440-Assignment-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="s3325238-COSC2440-Assignment-01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="s3325238-COSC2440-Assignment-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="Decorator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="s3325238-COSC2440-Assignment-01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="s3325238-COSC2440-Assignment-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="Interface" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="s3325238-COSC2440-Assignment-01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="s3325238-COSC2440-Assignment-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="General" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="s3325238-COSC2440-Assignment-01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="s3325238-COSC2440-Assignment-01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="StudentEnrollmentManager" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -122,7 +92,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552579991673" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552580661040" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
@@ -166,17 +136,18 @@
       <option name="presentableId" value="Default" />
       <updated>1552380010947</updated>
       <workItem from="1552380013259" duration="11237000" />
-      <workItem from="1552393054755" duration="24660000" />
+      <workItem from="1552393054755" duration="25161000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35897000" />
+    <option name="totallyTimeSpent" value="36398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24474959" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30129242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -392,6 +363,16 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="19" selection-start-column="19" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
